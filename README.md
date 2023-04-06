@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/PabloSgns/Kanap">
-    <img src="https://github.com/PabloSgns/Kanap/blob/main/front/images/logo.png" alt="Logo" width="350" height=400">
+  <a href="https://github.com/Pasacod/Kanap">
+    <img src="https://github.com/Pasacod/Kanap/blob/main/front/images/logo.png" alt="Logo" width="350" height=400">
   </a>
 
 <h3 align="center">Kanap</h3>
@@ -11,7 +11,7 @@
     This project is the n°5 of OpenClassrooms Web Developper course which consists in building an e-commerce website with JavaScript.
     <br />
     <br />
-    <a href="https://github.com/PabloSgns/Kanap"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pasacod/Kanap"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -44,7 +44,7 @@
 ## About The Project
 
 <div align="center">
-    <img src="https://github.com/PabloSgns/Kanap/blob/main/front/images/screenshot_readme.png" alt="Logo" width="900" height="450">
+    <img src="https://github.com/Pasacod/Kanap/blob/main/front/images/screenshot_readme.png" alt="Logo" width="900" height="450">
 </div>
 
 <br/>
@@ -70,7 +70,7 @@ The goal is to unify the work by dynamically integrating the API elements into t
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/PabloSgns/Kanap.git
+   git clone https://github.com/Pasacod/Kanap.git
    ```
    
 3. Go to the "back" folder and install npm
